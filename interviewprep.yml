@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: interviewprep
+company:
+  name: Accenture
