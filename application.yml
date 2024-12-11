@@ -1,2 +1,6 @@
-company:
-  designation: Packaged App Development Senior Analyst
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    preferIpAddress: true
